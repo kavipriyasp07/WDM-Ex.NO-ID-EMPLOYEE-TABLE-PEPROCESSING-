@@ -1,6 +1,6 @@
 # WDM-Ex.NO-1D-EMPLOYEE-TABLE-PEPROCESSING
-## Name: Madhu Mitha V
-## Reg.no: 2305002013
+## Name: Kavipriya S P
+## Reg.no: 2305002011
 ## Aim:
 To apply Pre-Processing techniques to the training data set of Employee Table
 ## Description:
