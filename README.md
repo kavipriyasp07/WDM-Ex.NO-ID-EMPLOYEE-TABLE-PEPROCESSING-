@@ -60,5 +60,10 @@ Procedure:
 
 ## Remove Pre-Processing Technique:
 Procedure:
-1)	Start  Programs  Weka-3-4  Weka-3-4
+1)	Start
+2)	Programs
+3)	Weka-3-4
+4)	Weka-3-4
+
+## Result 
 Thus, this program has been successfully executed.
